@@ -1,0 +1,20 @@
+[
+  {
+    "album_title": "Thriller",
+    "artist": "Michael Jackson",
+    "songs": ["Thriller", "Beat It", "Billie Jean", "Wanna Be Startin' Somethin'", "The Girl Is Mine"],
+    "year": 1982
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "songs": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky"],
+    "year": 1973
+  },
+  {
+    "album_title": "Abbey Road",
+    "artist": "The Beatles",
+    "songs": ["Come Together", "Something", "Here Comes the Sun", "Octopus's Garden", "The End"],
+    "year": 1969
+  }
+]
